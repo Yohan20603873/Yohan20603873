@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Java SQL
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me C#
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Me
+- ⚡ Fun fact: AI will replace me 
 
 <!---
 Yohan20603873/Yohan20603873 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
